@@ -1,4 +1,4 @@
-# Git Hub
+# Taller de Git y GitHub
 lorem ipsum dolor sit amet, consectetur
 
 ## Segundo subtitulo
